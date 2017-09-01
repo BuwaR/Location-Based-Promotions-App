@@ -1,0 +1,13 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google/maps": "^0.4.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "formidable": "^1.1.1",
+    "mongoose": "^4.11.9",
+    "node-geocoder": "^3.20.0"
+  }
+}
